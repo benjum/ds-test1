@@ -1,5 +1,7 @@
 pandas
-plotly
+plotly==4.9.0
+ipywidgets
 sodapy
+gdal
 geopandas
 keplergl
